@@ -58,6 +58,8 @@ ul {
 }
 
 .section {
+	width: 1600px;
+	margin: 0 auto;
 	padding-top: 94px;
 	padding-bottom: 94px;
 }
@@ -347,8 +349,6 @@ ul {
 /* Our team */
 
 .team {
-	width: 1600px;
-	margin: 0 auto;
 	background-color: var(--sec-background-color);
 }
 
